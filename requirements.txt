@@ -1,0 +1,4 @@
+einops==0.8.0
+numpy==1.26.4
+pytorch==2.5.0
+kornia==0.7.1
